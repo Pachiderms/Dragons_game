@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ## How to play
 ```bash
 cd dragons_game/dragons_game
-pyhton main.py
+python main.py
 ```
