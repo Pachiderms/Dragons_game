@@ -2,10 +2,8 @@
 Introduction to python object oriented programmation with Pygame library
 
 ## Prerequisites
-**Python.3.9**, **Pygame**
-Install pygame
 ```bash
-pip install pygame
+pip install -r requirements.txt
 ```
 
 ## Features
